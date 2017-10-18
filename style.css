@@ -131,9 +131,10 @@ a.rm, a.com {
 	width:670px;
 }
 .content .mainbar img {
-	padding:4px;
-	border:1px solid #b7b7b7;
-	background-color:#fff;
+	padding: 4px;
+	border: 1px solid #b7b7b7;
+	background-color: #fff;
+	margin-left: 10px;
 }
 .content .mainbar img.fl {
 	margin:4px 16px 4px 0;
